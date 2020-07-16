@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+### 💬Commit Style
 ```
-Commit Style
 Type: 제목(Title)
 
 본문(Body)
 
-꼬리말(Footer)
+꼬리말(Footer) : 생략가능
 ```
 feat      : 새로운 기능을 추가할 경우
 fix       : 버그를 고친 경우
