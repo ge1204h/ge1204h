@@ -1,6 +1,8 @@
 # Hi there 👋
 ---
 
+[경력기술서](https://ge1204h.github.io/)
+
 ---
 ### 💬Commit Style
 ```
