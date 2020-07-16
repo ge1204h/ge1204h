@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 ### 💬Commit Style
 ```
 Type: 제목(Title)
@@ -18,6 +20,7 @@ refactor | 프로덕션 코드 리팩터링
 test | 테스트 추가, 테스트 리팩터링 (프로덕션 코드 변경 없음)
 chore | 빌드 테스크 업데이트, 패키지 매니저 설정할 경우 (프로덕션 코드 변경 없음)
 
+---
 <!--
 **ge1204h/ge1204h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
