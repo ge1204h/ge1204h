@@ -3,7 +3,11 @@
 💬 [Resume](https://ge1204h.github.io/)
 
 ---
-
+### Repositories
+Title | Language 
+--- | --- 
+[Sample Code](https://github.com/ge1204h/SampleCode) | C#
+[Algorithm](https://github.com/ge1204h/Algorithm) | C++
 
 <!--
 **ge1204h/ge1204h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
