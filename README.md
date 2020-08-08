@@ -6,7 +6,7 @@
 ### Repositories
 Title | Language | Desc 
 --- | --- | --- 
-[Sample](https://github.com/ge1204h/Sample) | C# | 작업한 샘플코드들이 들어있습니다.
+[Sample](https://github.com/ge1204h/Sample) | C# | 샘플 코드들
 [Algorithm](https://github.com/ge1204h/Algorithm) | C++ | 알고리즘 문제풀이
 
 <!--
