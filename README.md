@@ -6,7 +6,7 @@
 ### Repositories
 Title | Language 
 --- | --- 
-[Sample Code](https://github.com/ge1204h/SampleCode) | C#
+[Sample](https://github.com/ge1204h/Sample) | C#
 [Algorithm](https://github.com/ge1204h/Algorithm) | C++
 
 <!--
