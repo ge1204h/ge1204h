@@ -4,10 +4,10 @@
 
 ---
 ### Repositories
-Title | Language 
---- | --- 
-[Sample](https://github.com/ge1204h/Sample) | C#
-[Algorithm](https://github.com/ge1204h/Algorithm) | C++
+Title | Language | Desc 
+--- | --- | --- 
+[Sample](https://github.com/ge1204h/Sample) | C# | 작업한 샘플코드들이 들어있습니다.
+[Algorithm](https://github.com/ge1204h/Algorithm) | C++ | 알고리즘 문제풀이
 
 <!--
 **ge1204h/ge1204h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
