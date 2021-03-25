@@ -1,15 +1,9 @@
-# Client Programmer 😄
+### Client Programmer 😄
 
 💬 [Resume](https://ge1204h.github.io/)
 
 ---
-### Repositories
-Title | Language | Desc 
---- | --- | --- 
-[Project](https://github.com/ge1204h/Sample) | C# | 개인 작업물 및 샘플
-[Algorithm](https://github.com/ge1204h/Algorithm) | C++ | 알고리즘 문제풀이
-
-### Stack
+#### Stack
 ![GIT](https://img.shields.io/badge/-GIT-ff6b5b?style=for-the-badge&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-809cc9?style=for-the-badge&logo=Subversion&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -17,13 +11,13 @@ Title | Language | Desc
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
 
-### Platform
+#### Platform
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-0089d6?style=for-the-badge&logo=Windows&logoColor=white)
 ![MAC OS](https://img.shields.io/badge/-MAC%20OS-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/-ANDROID-3ddc84?style=for-the-badge&logo=Android&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=iOS&logoColor=white)
 
-### Tool
+#### Tool
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
@@ -33,6 +27,11 @@ Title | Language | Desc
 
 <!-- 주석 시작
 **ge1204h/ge1204h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Repositories
+Title | Language | Desc 
+--- | --- | --- 
+[Project](https://github.com/ge1204h/Sample) | C# | 개인 작업물 및 샘플
+[Algorithm](https://github.com/ge1204h/Algorithm) | C++ | 알고리즘 문제풀이
 
 Here are some ideas to get you started:
 
