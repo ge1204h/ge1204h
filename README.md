@@ -10,7 +10,7 @@ Title | Language | Desc
 [Algorithm](https://github.com/ge1204h/Algorithm) | C++ | 알고리즘 문제풀이
 
 ### Stack
-![Git](https://img.shields.io/badge/-Git-ff2c16?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ff6b5b?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- 주석 시작
 **ge1204h/ge1204h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
