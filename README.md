@@ -9,7 +9,10 @@ Title | Language | Desc
 [Project](https://github.com/ge1204h/Sample) | C# | 개인 작업물 및 샘플
 [Algorithm](https://github.com/ge1204h/Algorithm) | C++ | 알고리즘 문제풀이
 
-<!--
+### Stack
+https://img.shields.io/badge/-Git-blue?style=plastic&logo=git&logoColor=white
+
+<!-- 주석 시작
 **ge1204h/ge1204h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
