@@ -25,6 +25,11 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-1575f9?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232f3e?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
+#### communication
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Redmine](https://img.shields.io/badge/-Redmine-8F0000?style=for-the-badge&logo=RedBubble&logoColor=white)
+![Workplace](https://img.shields.io/badge/-Workplace-000000?style=for-the-badge&logo=Workplace&logoColor=white)
+
 <!-- 주석 시작
 **ge1204h/ge1204h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### Repositories
