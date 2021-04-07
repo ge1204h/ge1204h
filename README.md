@@ -3,9 +3,7 @@
 💬 [Resume](https://ge1204h.github.io/)
 
 ---
-#### Stack
-![GIT](https://img.shields.io/badge/-GIT-ff6b5b?style=for-the-badge&logo=git&logoColor=white)
-![SVN](https://img.shields.io/badge/-SVN-809cc9?style=for-the-badge&logo=Subversion&logoColor=white)
+#### Language
 ![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -19,6 +17,8 @@
 
 #### Tool
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-ff6b5b?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/-SVN-809cc9?style=for-the-badge&logo=Subversion&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-d24939?style=for-the-badge&logo=Jenkins&logoColor=white)
