@@ -5,7 +5,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 
 #### Platform
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-0089d6?style=for-the-badge&logo=Windows&logoColor=white)
@@ -27,3 +27,5 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Redmine](https://img.shields.io/badge/-Redmine-8F0000?style=for-the-badge&logo=RedBubble&logoColor=white)
 ![Workplace](https://img.shields.io/badge/-Workplace-000000?style=for-the-badge&logo=Workplace&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
