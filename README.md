@@ -5,6 +5,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 #### Platform
 ![WINDOWS](https://img.shields.io/badge/-WINDOWS-0089d6?style=for-the-badge&logo=Windows&logoColor=white)
